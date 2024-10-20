@@ -39,7 +39,7 @@ https://devopsforlife.io
 **Conteúdo**:
 1. **O Crescimento Exponencial dos Logs em Ambientes Complexos**
    - O que leva ao aumento do volume de logs? Discussão sobre ambientes de microserviços, escalabilidade de sistemas e o aumento do tráfego de dados.
-   - Exemplos práticos: como, em grandes corporações, o volume de logs pode passar despercebido até que os custos se tornem insustentáveis (usar o exemplo do seu projeto na PwC, onde os custos chegaram a $500 milhões).
+   - Exemplos práticos: como, em grandes corporações, o volume de logs pode passar despercebido até que os custos se tornem insustentáveis (usar o exemplo do seu projeto, onde os custos chegaram a $500 milhões).
 
 2. **Como Medir o Volume de Logs?**
    - Introdução às ferramentas e métricas que ajudam a monitorar e medir o volume de logs, como o uso de queries em Splunk, ou dashboards no ELK.
